@@ -1,0 +1,6 @@
+{
+  "name": "LittleLingo AI",
+  "description": "An interactive AI-powered English learning adventure for children ages 4–12 guided by Lumo.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
